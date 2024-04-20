@@ -1,0 +1,8 @@
+# SPDX-FileCopyrightText: 2024 Adrian C. Prelipcean <adrianprelipceanc@gmail.com>
+#
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
+local_folder/
+*.env
+*/data/*
+.venv/
