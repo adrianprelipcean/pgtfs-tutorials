@@ -21,7 +21,7 @@ In this tutorial, you will learn how to add a simple routing engine for the GTFS
 1. Download the data using the following script
 
     ```sh
-    wget http://www.bart.gov/dev/schedules/google_transit.zip -O data/san_francisco.zip
+    mkdir -p data && wget http://www.bart.gov/dev/schedules/google_transit.zip -O data/san_francisco.zip
     ```
 
     | Alternatively, go to http://www.bart.gov/dev/schedules/google_transit.zip, download the archive and save it in the `data` folder. 
